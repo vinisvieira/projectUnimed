@@ -1,0 +1,7 @@
+com\project\unimed\bean\Producer.class
+com\project\unimed\bean\Studio.class
+com\project\unimed\service\IMovieService.class
+com\project\unimed\controller\MyController.class
+com\project\unimed\service\MovieService.class
+com\project\unimed\Application.class
+com\project\unimed\bean\Movie.class
